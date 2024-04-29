@@ -1,6 +1,6 @@
 
-opencv-contrib-python
-opencv-python
-opencv-python-headless
-ultralytics
+opencv-contrib-python==4.8.0.76
+opencv-python==4.8.0.76
+opencv-python-headless==4.9.0.80
+ultralytics==8.2.4
 
